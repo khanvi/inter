@@ -3,7 +3,7 @@
     {{ counter }}
     <Alesha @click.native="quak(2)"/>
     <div v-show="counter > 4">
-      SHhowing test
+      SHhowing
     </div>
   </div>
 </template>
